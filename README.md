@@ -5,6 +5,9 @@ AWS account and without paying anything. Everything runs on your own PC inside D
 [Floci](https://github.com/floci-io/floci), a free local AWS emulator, and PowerShell scripts that create each stage
 with the standard AWS CLI.
 
+- Article: [Run AWS CodePipeline, CodeBuild and CodeDeploy locally with Floci](https://dev.to/axololtos_30/run-aws-codepipeline-codebuild-and-codedeploy-locally-with-floci-3k61)
+- LinkedIn post: [Read the post](https://lnkd.in/p/gYfEzp39)
+
 ![Architecture](docs/architecture.png)
 
 *Editable source: [`docs/architecture.excalidraw`](docs/architecture.excalidraw) (open it at [excalidraw.com](https://excalidraw.com)).*
