@@ -1,0 +1,9 @@
+version: 0.0
+os: linux
+hooks:
+  AfterInstall:
+    - location: /scripts/start.sh
+      timeout: 300
+  ValidateService:
+    - location: /scripts/validate.sh
+      timeout: 120
